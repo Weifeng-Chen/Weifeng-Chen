@@ -3,7 +3,6 @@
 ### Hi👋 I'm Weifeng
 - 🔭 I’m currently pursing a master degree of computer science at SYSU.
 - 🌱 I’m currently studying on image-text cross-modal learning.
-- 
 
 <!--
 **Weifeng-Chen/Weifeng-Chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
