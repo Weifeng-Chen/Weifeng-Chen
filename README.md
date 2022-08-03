@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Weifeng-Chen&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hi👋 I'm Weifeng
-- 🔭 I’m now in the first year of my master at SYSU.
+- 🔭 I’m now a master student at SYSU.
 - 🌱 I’m currently interested in image-text cross-modal learning and text-based image generation
 
 <!--
