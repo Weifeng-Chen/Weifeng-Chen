@@ -1,8 +1,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Weifeng-Chen&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hi👋 I'm Weifeng
-- 🔭 I’m now a master student at SYSU. I’m currently interested in large-scale cross-modal learning, efficient training and deployment, AIGC. 
-- ⚡I've train a stable diffusion of chinese version. You can play in hugging face space: https://huggingface.co/spaces/IDEA-CCNL/Taiyi-Stable-Diffusion-Chinese, or download the model from https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.1
+- 🔭 I’m now a master student at SYSU. I’m currently interested in large-scale cross-modal learning, AI-generated content. 
+- ⚡ A stable diffusion in chinese. You can play it in hugging face space: https://huggingface.co/spaces/IDEA-CCNL/Taiyi-Stable-Diffusion-Chinese, or download the model from https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.1
 - 🌱My personal homepage: https://weifeng-chen.github.io/
 
 <!--
