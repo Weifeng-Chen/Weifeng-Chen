@@ -4,8 +4,8 @@
 
 ### Hi👋 I'm Weifeng
 - 🔭 I’m now a master student at SYSU. I’m currently interested in Image/Video Generation.
-- ⚡ A stable diffusion in chinese. You can play it in [Hugging Face Space](https://huggingface.co/spaces/IDEA-CCNL/Taiyi-Stable-Diffusion-Chinese), or download the model from [Hugging Face](https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.1)
-- 🌱My personal homepage: https://weifeng-chen.github.io/
+- ⚡ Taiyi-Stable-Diffusion(Stable Diffusion-Chinese Version) ~ You can play it in [Hugging Face Space](https://huggingface.co/spaces/IDEA-CCNL/Taiyi-Stable-Diffusion-Chinese), or download the model from [Hugging Face](https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.1).
+- 🌱 My personal homepage: https://weifeng-chen.github.io/
 
 
 <!--
