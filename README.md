@@ -5,7 +5,9 @@
 - ⚡ A stable diffusion in chinese. You can play it in hugging face space: https://huggingface.co/spaces/IDEA-CCNL/Taiyi-Stable-Diffusion-Chinese, or download the model from https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.1
 - 🌱My personal homepage: https://weifeng-chen.github.io/
 
-![](wechat.png)
+Contact Me:
+<img src="wechat.png" width="10%">
+
 <!--
 **Weifeng-Chen/Weifeng-Chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
