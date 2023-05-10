@@ -3,10 +3,13 @@
 -->
 
 ### Hi👋 I'm Weifeng
-- 🌱 I’m now a master student at SYSU and work as an intern in ByteDance.
-- 🔭 I’m currently interested in Image/Video Generation.
-- ⚡ Chinese Stable Diffusion(Taiyi) ~ You can play it in [Hugging Face Space](https://huggingface.co/spaces/IDEA-CCNL/Taiyi-Stable-Diffusion-Chinese), or download the model from [Hugging Face](https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.1).
-- 🌱 My personal homepage: https://weifeng-chen.github.io/
+- 🌱 I’m now a second-year master student at SYSU.
+- 🔭 I’m interested in AI generated content, and currently research Image/Video Generation.
+- My personal homepage: https://weifeng-chen.github.io/
+
+
+### Project
+- ⚡ Open Source Chinese Stable Diffusion(Taiyi) in [Hugging Face](https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.1)[Online Demo](https://huggingface.co/spaces/IDEA-CCNL/Taiyi-Stable-Diffusion-Chinese).
 
 
 <!--
