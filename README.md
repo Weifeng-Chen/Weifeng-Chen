@@ -8,7 +8,8 @@
 - 🤔 I’m looking for oppotunity in AIGC industry, feel free to contact me if you have a story: weifeng.genius@foxmail.com
 
 ### Project
-- ⚡ The fisrt open-source Chinese Stable Diffusion(Taiyi) in [Hugging Face](https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.1) and [Online Demo](https://huggingface.co/spaces/IDEA-CCNL/Taiyi-Stable-Diffusion-Chinese).
+- ⚡ Control-A-Video: https://controlavideo.github.io/
+- ⚡ The fisrt open-source Chinese Stable Diffusion(Taiyi) model in [Hugging Face](https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.1) and [Online Demo](https://huggingface.co/spaces/IDEA-CCNL/Taiyi-Stable-Diffusion-Chinese). The first open-source Chinese CLIP model in [Hugging Face](https://huggingface.co/IDEA-CCNL/Taiyi-CLIP-Roberta-102M-Chinese)
 
 
 <!--
