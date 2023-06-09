@@ -5,7 +5,7 @@
 
 ### Hi👋 I'm Weifeng 
 - 🔭 I’m interested in generative models and currently working on Image/Video Generation.
-- 🤔 I’m looking for oppotunity in AIGC industry, feel free to contact me if you have a story: weifeng.genius@foxmail.com
+- 🤔 I’m looking for oppotunity in AIGC track, feel free to contact me if you have a story: weifeng.genius@foxmail.com
 
 ### Project
 - ⚡ Control-A-Video: https://controlavideo.github.io/
