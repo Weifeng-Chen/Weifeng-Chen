@@ -5,7 +5,7 @@
 
 ### Hi👋 I'm Weifeng 
 - 🔭 I’m interested in generative models and currently working on Image/Video Generation.
-- 🤔 I’m looking for oppotunity in AIGC, feel free to contact me if you have a story: weifeng.genius@foxmail 
+- 🤔 I’m looking for oppotunity in AIGC industry, feel free to contact me if you have a story: weifeng.genius@foxmail.com
 
 ### Project
 - ⚡ Open Source Chinese Stable Diffusion(Taiyi) in [Hugging Face](https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.1) and [Online Demo](https://huggingface.co/spaces/IDEA-CCNL/Taiyi-Stable-Diffusion-Chinese).
