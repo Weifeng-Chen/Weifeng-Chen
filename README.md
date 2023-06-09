@@ -1,7 +1,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Weifeng-Chen&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### Hi👋 I'm Weifeng [Homepage](https://weifeng-chen.github.io/)
+<!-- [Homepage](https://weifeng-chen.github.io/) -->
+
+### Hi👋 I'm Weifeng 
 - 🔭 I’m interested in generative models and currently working on Image/Video Generation.
 - 🤔 I’m looking for oppotunity in AIGC, feel free to contact me if you have a story: weifeng.genius@foxmail 
 
