@@ -8,7 +8,7 @@
 - 🤔 I’m looking for oppotunity in generative AI, feel free to contact me if you have a story: weifeng.genius@foxmail.com
 
 ### Project
-- ⚡ Control-A-Video: Text-based Video2Video model. [Project Page](https://controlavideo.github.io/), [Online demo](https://huggingface.co/spaces/wf-genius/Control-A-Video), [Github](https://huggingface.co/spaces/wf-genius/Control-A-Video).
+- ⚡ Control-A-Video: Text-based Video2Video model. [Project Page](https://controlavideo.github.io/), [Online demo](https://huggingface.co/spaces/wf-genius/Control-A-Video), [Github](https://github.com/Weifeng-Chen/control-a-video).
 - ⚡ Chinese Stable Diffusion(Taiyi) model [Hugging Face](https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.1) and [Online Demo](https://huggingface.co/spaces/IDEA-CCNL/Taiyi-Stable-Diffusion-Chinese). Chinese CLIP model [Hugging Face](https://huggingface.co/IDEA-CCNL/Taiyi-CLIP-Roberta-102M-Chinese).
 
 
