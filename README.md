@@ -7,7 +7,7 @@
 - 🔭 I’m interested in generative models and currently working on Image/Video Generation.
 - 🤔 I’m looking for oppotunity in generative AI, feel free to contact me if you have a story!
   - Email: weifeng.genius@foxmail.com
-  - Wechat: <img src="wechat.png" width="20%">
+  - Wechat: <img src="wechat.png" width="25%">
   
 ### Project
 - ⚡ Control-A-Video: Text-based Video2Video model. [Project Page](https://controlavideo.github.io/), [Online demo](https://huggingface.co/spaces/wf-genius/Control-A-Video), [Github](https://github.com/Weifeng-Chen/control-a-video).
