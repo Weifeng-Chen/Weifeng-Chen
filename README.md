@@ -5,8 +5,10 @@
 
 ### Hi👋 I'm Weifeng 
 - 🔭 I’m interested in generative models and currently working on Image/Video Generation.
-- 🤔 I’m looking for oppotunity in generative AI, feel free to contact me if you have a story: weifeng.genius@foxmail.com & weifeng.genius@gmail.com
-
+- 🤔 I’m looking for oppotunity in generative AI, feel free to contact me if you have a story!
+  - Email: weifeng.genius@foxmail.com
+  - Wechat: ![](wechat.png)
+  
 ### Project
 - ⚡ Control-A-Video: Text-based Video2Video model. [Project Page](https://controlavideo.github.io/), [Online demo](https://huggingface.co/spaces/wf-genius/Control-A-Video), [Github](https://github.com/Weifeng-Chen/control-a-video).
 - ⚡ Chinese Stable Diffusion(Taiyi) model [Hugging Face](https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.1) and [Online Demo](https://huggingface.co/spaces/IDEA-CCNL/Taiyi-Stable-Diffusion-Chinese). Chinese CLIP model [Hugging Face](https://huggingface.co/IDEA-CCNL/Taiyi-CLIP-Roberta-102M-Chinese).
