@@ -5,7 +5,7 @@
 
 ### Hi👋 I'm Weifeng 
 - 🔭 I’m interested in generative models and currently working on Image/Video Generation.
-- 🤔 I’m looking for oppotunity in generative AI, feel free to contact me if you have a story!
+- 🤔 Feel free to contact me:
   - Email: weifeng.genius@foxmail.com
   - Wechat: <img src="wechat.png" width="25%">
   
