@@ -4,7 +4,7 @@
 <!-- [Homepage](https://weifeng-chen.github.io/) -->
 
 ### Hi👋 I'm Weifeng 
-- 🔭 I’m interested in generative models and currently working on Image/Video Generation.
+- 🔭 I’m currently working on model distillation and RLHF for image/video generation, supporting AIGC applications at Bytedance.
 - 🤔 Feel free to contact me:
   - Email: weifeng.genius@foxmail.com
   
